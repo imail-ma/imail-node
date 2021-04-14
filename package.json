@@ -1,0 +1,27 @@
+{
+  "name": "@imail.ma/imail",
+  "version": "1.0.1",
+  "description": "Librairie pour l'envoie d'e-mails via imail.ma en Node.",
+  "author": "imail.ma <dev@imail.ma>",
+  "license": "MIT",
+  "keywords": [
+    "imail.ma",
+    "imail"
+  ],
+  "dependencies": {
+    "concat-stream": "^1.5.2",
+    "promise": "^7.1.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imail-ma/imail-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imail-ma/imail-node/issues"
+  },
+  "homepage": "https://github.com/imail-ma/imail-node#readme"
+}
